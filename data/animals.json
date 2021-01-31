@@ -108,33 +108,6 @@
         "loving"
       ],
       "id": "10"
-    },
-    {
-      "name": "cha",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "11"
-    },
-    {
-      "name": "cha2",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "cha2",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "13"
     }
   ]
 }
